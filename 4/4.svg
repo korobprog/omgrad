@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_4"><path d="M.1 825V0H1466.7V825Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_4{
+fill: #FFF;
+}
+.g1_4{
+fill: none;
+stroke: #F1F1F1;
+stroke-width: 1.527;
+stroke-linejoin: round;
+}
+.g2_4{
+fill: #62993E;
+}
+.g3_4{
+fill: none;
+stroke: #BEBEBE;
+stroke-width: 0.916;
+stroke-linejoin: round;
+}
+.g4_4{
+fill: none;
+stroke: #A1C490;
+stroke-width: 3.361;
+stroke-linecap: round;
+stroke-linejoin: round;
+}
+.g5_4{
+fill: none;
+stroke: #A6A6A6;
+stroke-width: 0.916;
+stroke-linejoin: round;
+}
+]]></style>
+</defs>
+<path clip-path="url(#c0_4)" fill-rule="evenodd" d="M.1 825H1466.7V0H.1V825Z" class="g0_4"/>
+<path d="M804.1 632.3h518.3m-518.3 -87h518.3M804.1 457.9h518.3M804.1 370.8h518.3M804.1 283.7h518.3" class="g1_4"/>
+<path d="M838.8 536.6h34.5V719.3H838.8V536.6ZM942.4 510.3h34.5v209H942.4v-209ZM1046 488.6h34.5V719.3H1046V488.6Zm103.6 -13.2h34.5V719.3h-34.5V475.4Zm103.6 -52.2h34.5V719.3h-34.5V423.2Z" class="g2_4"/>
+<path d="M804.1 719.4h518.3" class="g3_4"/>
+<path d="M856 458c34.6 -11.6 69.1 -25.4 103.6 -34.8c34.6 -9.5 69.1 -16 103.7 -21.8c34.5 -5.8 69.1 -2.2 103.6 -13.1c34.5 -10.9 69.1 -34.8 103.6 -52.2" class="g4_4"/>
+<path d="M959.7 510.4l13.4 -11.6" class="g5_4"/>
+<g clip-path="url(#c0_4)">
+<image preserveAspectRatio="none" x="0" y="0" width="1467" height="312" xlink:href="img/1.jpg"/>
+<image preserveAspectRatio="none" x="113" y="68" width="110" height="21" xlink:href="img/2.png"/>
+</g>
+</svg>

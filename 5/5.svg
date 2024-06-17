@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_5"><path d="M.1 825V0H1466.7V825Z"/></clipPath>
+<clipPath id="c1_5"><path d="M.1 586.7V0H1466.7V586.7Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_5{
+fill: #FFF;
+}
+.g1_5{
+fill: #000;
+fill-opacity: 0.49;
+}
+.g2_5{
+fill: #4472C4;
+}
+.g3_5{
+fill: #FFC000;
+}
+.g4_5{
+fill: #70AD47;
+}
+]]></style>
+</defs>
+<g clip-path="url(#c0_5)">
+<path fill-rule="evenodd" d="M.1 825H1466.7V0H.1V825Z" class="g0_5"/>
+<image x="0" y="0" width="1467" height="587" xlink:href="shade/1.png"/>
+</g>
+<image clip-path="url(#c1_5)" preserveAspectRatio="none" x="0" y="0" width="1467" height="587" xlink:href="img/1.jpg"/>
+<g clip-path="url(#c0_5)">
+<path fill-rule="evenodd" d="M-1.1 586.7H1465.5V0H-1.1V586.7Z" class="g1_5"/>
+<image preserveAspectRatio="none" x="76" y="420" width="498" height="365" xlink:href="img/2.png"/>
+</g>
+<path fill-rule="evenodd" d="M105.8 714.4H499.7V449.5H105.8V714.4Z" class="g0_5"/>
+<image clip-path="url(#c0_5)" preserveAspectRatio="none" x="506" y="420" width="499" height="365" xlink:href="img/3.png"/>
+<path fill-rule="evenodd" d="M536.3 714.4H930.5V449.5H536.3V714.4Z" class="g0_5"/>
+<image clip-path="url(#c0_5)" preserveAspectRatio="none" x="937" y="420" width="498" height="365" xlink:href="img/4.png"/>
+<path fill-rule="evenodd" d="M967.2 714.4H1361V449.5H967.2V714.4Z" class="g0_5"/>
+<path fill-rule="evenodd" d="M306.3 518h12.2l.4 .1l.2 .2l.3 .3l.2 .3l.1 .4l-.1 .4l-.2 .3l-.3 .3l-.2 .2h-13l-.3 -.2l-.3 -.3l-.2 -.3v-.8l.2 -.3l.3 -.3l.3 -.2l.4 -.1Zm0 -4.8h5.2l.5 .2l.2 .3l.2 .4v.7l-.2 .3l-.2 .3l-.5 .2l-.3 .1h-4.9l-.4 -.1l-.3 -.2l-.3 -.3l-.2 -.3v-.7l.2 -.4l.3 -.3l.3 -.2h.4Zm0 -4.9h12.2l.4 .2l.2 .1l.3 .2l.2 .4l.1 .3l-.1 .5l-.2 .3l-.3 .2l-.2 .2l-.4 .1H306.3l-.4 -.1l-.3 -.2l-.3 -.2l-.2 -.3v-.8l.2 -.4l.3 -.2l.3 -.1l.4 -.2Zm-18.2 -2.4V518h9.7V505.9h-9.7Zm18.2 -2.4h7.4l.3 .1l.4 .1l.3 .3v.2l.2 .5l-.2 .4v.3l-.3 .3l-.4 .1l-.3 .1h-7.4l-.4 -.1l-.3 -.1l-.3 -.3l-.2 -.3v-.9l.2 -.2l.3 -.3l.3 -.1l.4 -.1Zm-18.2 0h9.7l1 .1l.7 .6l.6 .8l.2 .9V518l-.2 1l-.6 .7l-.7 .6l-1 .2h-9.7l-1 -.2l-.7 -.6l-.6 -.7l-.1 -1V505.9l.1 -.9l.6 -.8l.7 -.6l1 -.1Zm-7.3 -4.9v29.2h43.8V498.6H280.8Zm-2.5 -4.9v2.5H327v-2.5H278.3Zm24.4 -4.8l.9 .1l.8 .6l.6 .8l.1 .9H327l1 .2l.7 .6l.5 .7l.3 .9v2.5l-.3 .9l-.5 .8l-.7 .5l-1 .2v29.2l-.2 .9l-.5 .9l-.8 .4l-.9 .3H303.9v3.1l7 6.9l.2 .3v.2l.1 .3l-.1 .5l-.2 .3l-.3 .2l-.2 .2l-.4 .1l-.3 -.1l-.3 -.1l-.3 -.2l-6.4 -6.4l-6.4 6.4l-.3 .2l-.3 .1l-.3 .1l-.4 -.1l-.4 -.2l-.1 -.2l-.3 -.3v-.8l.2 -.2l.1 -.3l7 -6.9v-3.1H280.8l-.9 -.3l-.9 -.4l-.4 -.9l-.3 -.9V498.6l-.9 -.2l-.8 -.5l-.5 -.8l-.1 -.9v-2.5l.1 -.9l.5 -.7l.8 -.6l.9 -.2h22l.1 -.9l.6 -.8l.7 -.6l1 -.1Z" class="g2_5"/>
+<path fill-rule="evenodd" d="M710.8 527.5l-1.7 4.8h47.7l-1.6 -4.8H710.8Zm36.7 -24.4V525h4.9V503.1h-4.9Zm-7.3 0V525h4.9V503.1h-4.9Zm-12.1 0V525h9.7V503.1h-9.7Zm-7.3 0V525h4.8V503.1h-4.8Zm-7.3 0V525h4.9V503.1h-4.9Zm-4.9 -4.9v2.5h48.6v-2.5H708.6ZM733 483.9l-21 11.9h41.9L733 483.9Zm0 -2.6h.2l.4 .1L759 496l.3 .2l.2 .3l.1 .2l.1 .3v4.9l-.1 .4l-.2 .3l-.2 .3l-.4 .1l-.4 .1h-3.5V525H756l.4 .1l.3 .2l.3 .2l.1 .3l2.5 7.3v.2l.1 .2l-.1 .4l-.2 .3l-.2 .3l-.4 .2H707l-.3 -.2l-.3 -.3l-.2 -.3v-.6l.1 -.2h-.1l2.5 -7.3l.2 -.3l.2 -.2l.4 -.2l.3 -.1h1.3V503.1h-3.7L707 503l-.3 -.1l-.3 -.3l-.2 -.3v-5.6l.2 -.2l.2 -.3l.2 -.2l25.6 -14.6l.3 -.1h.3Z" class="g3_5"/>
+<path fill-rule="evenodd" d="M1189.9 509.7h.3l.3 .1l.2 .2l1.6 1.6l1.6 -1.6l.3 -.2l.2 -.1h.7l.4 .2l.2 .3l.2 .3l.1 .5l-.1 .2l-.1 .4l-.2 .1l-1.5 1.6l1.5 1.5l.2 .3l.1 .4l.1 .3l-.1 .4l-.2 .3l-.2 .3l-.4 .2h-.7l-.2 -.2l-.3 -.2l-1.6 -1.6l-1.6 1.6l-.2 .2l-.3 .2h-.7l-.4 -.2l-.2 -.3l-.2 -.3l-.1 -.4l.1 -.3l.1 -.4l.2 -.3l1.5 -1.5l-1.5 -1.6l-.2 -.1l-.1 -.4l-.1 -.2l.1 -.5l.2 -.3l.2 -.3l.4 -.2h.4Zm-32.9 0l.9 .2l.8 .5l.5 .8l.2 .9l-.2 .9l-.5 .8l-.8 .6l-.9 .1l-1 -.1l-.8 -.6l-.5 -.8l-.2 -.9l.2 -.9l.5 -.8l.8 -.5l1 -.2Zm.5 -5.4l2 1.4l-.3 .9l-.4 1l-2.4 -.7l.5 -1.3l.6 -1.3Zm35.9 0v1.3l-.2 1.3l-2.4 -.3l.1 -1.1v-1l2.5 -.2Zm-32 -3.4l1.4 2l-1.8 1.3l-1.6 -1.7l2 -1.6Zm30.2 -1.7l.7 1.2l.5 1.3l-2.3 .8l-.4 -1l-.5 -.9l2 -1.4Zm-3 -3.8l1.3 1.6l.2 .2l-1.9 1.6l-.2 -.2l-1.3 -1.7l1.9 -1.5ZM1171.9 494l1.4 2.1l-.9 .7l-.8 .7l-1.7 -1.7l.9 -.9l1.1 -.9Zm5.8 -3.8l1 .2l.8 .5l.5 .8l.1 .9l-.1 .9l-.5 .8l-.8 .5l-1 .2l-1 -.2l-.8 -.5l-.4 -.8l-.2 -.9l.2 -.9l.4 -.8l.8 -.5l1 -.2Zm6.1 -11.8v15.1l.5 -1.3l1.2 .6l1.2 .7l-1.5 1.9l-1.4 -.8v27.5l14.6 4.3V482.5l-14.6 -4.1Zm-2.4 0l-14.8 4.1v16.1l1 -.5l.7 -.6l1.7 1.8l-1.2 .9l-1.1 .7l-1.1 -2.1v27.6l14.8 -4.3V478.4Zm-31.8 0v43.7l14.6 4.3V482.5l-14.6 -4.1Zm-1.2 -3h.1l.2 .2l16.7 4.7l16.9 -4.7l.1 -.2h.4l.1 .2l17.1 4.9h.3l.3 .2l.1 .3l.1 .3l.1 .3V528l-.1 .4l-.2 .3l-.2 .2l-.4 .3h-.7l-16.7 -4.9l-16.8 4.9h-.6L1148 524.3l-.2 -.2l-.3 -.1l-.2 -.3v-.2l-.2 -.4V476.7l.2 -.4l.1 -.3l.3 -.3l.3 -.1l.4 -.2Z" class="g4_5"/>
+<image clip-path="url(#c0_5)" preserveAspectRatio="none" x="113" y="68" width="110" height="21" xlink:href="img/5.png"/>
+</svg>
