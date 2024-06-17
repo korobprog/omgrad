@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.jsdelivr.net/gh/vaakash/socializer@f4c4e9/css/socializer.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://use.fontawesome.com/releases/v6.4.2/css/all.css"
+  />
     <!-- v3.3.2 -->
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <meta charset="utf-8" />
@@ -3995,6 +4004,16 @@
     </script>
   </head>
   <body class="light-theme">
+    <div class="sr-sharebar sr-sb-vl sr-sb-right">
+        <div
+          class="socializer"
+          data-features="32px,drop,opacity,vertical,icon-white,pad"
+          data-sites="vkontakte,telegram,whatsapp"
+          data-meta-vkontakte="https://vk.com/omsk_retreat"
+          data-meta-telegram="https://t.me/AllaAmen"
+          data-meta-whatsapp="https://wa.me/79139613260?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82"
+        ></div>
+      </div>
     <div id="main">
       <div id="idrviewer"></div>
     </div>
@@ -4002,5 +4021,12 @@
     <script type="text/javascript">
       IDRViewer.setup();
     </script>
+        </script>
+        <script src="https://cdn.jsdelivr.net/gh/vaakash/socializer@f4c4e9/js/socializer.min.js"></script>
+        <script>
+        (function(){
+            socializer( '.socializer' );
+        }());
+        </script>
   </body>
 </html>
