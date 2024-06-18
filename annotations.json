@@ -1,1 +1,66 @@
-{"pages":[{"page":34,"annotations":[{"type":"Square","bounds":[591,686,303,84],"objref":"666","title":"makst","appearance":"34/annots/666.png"},{"type":"Link","bounds":[587,681,310,92],"objref":"841","appearance":"34/annots/841.png"}]},{"page":3,"annotations":[{"type":"Link","bounds":[40,196,366,191],"objref":"846","action":{"type":"GoTo","page":29,"zoom":"XYZ 0 845 1.25"},"appearance":"3/annots/846.png"},{"type":"Link","bounds":[99,423,268,109],"objref":"852","action":{"type":"GoTo","page":6,"zoom":"XYZ -275 876 0.5"},"appearance":"3/annots/852.png"},{"type":"Link","bounds":[489,359,302,116],"objref":"858","action":{"type":"GoTo","page":21,"zoom":"XYZ -20 845 1.25"},"appearance":"3/annots/858.png"},{"type":"Link","bounds":[872,406,347,107],"objref":"864","action":{"type":"GoTo","page":31,"zoom":"XYZ -20 845 1.25"},"appearance":"3/annots/864.png"},{"type":"Link","bounds":[1157,538,310,82],"objref":"871","action":{"type":"GoTo","page":30,"zoom":"XYZ -20 845 1.25"},"appearance":"3/annots/871.png"}]}]}
+{
+  "pages": [
+    {
+      "page": 34,
+      "annotations": [
+        {
+          "type": "Square",
+          "bounds": [591, 686, 303, 84],
+          "objref": "666",
+          "title": "makst",
+          "appearance": "34/annots/666.png"
+        },
+        {
+          "type": "Link",
+          "bounds": [587, 681, 310, 92],
+          "objref": "841",
+          "appearance": "34/annots/841.png",
+          "action": {
+            "type": "URI",
+            "uri": "invest/index.html"
+          }
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "annotations": [
+        {
+          "type": "Link",
+          "bounds": [40, 196, 366, 191],
+          "objref": "846",
+          "action": { "type": "GoTo", "page": 29, "zoom": "XYZ 0 845 1.25" },
+          "appearance": "3/annots/846.png"
+        },
+        {
+          "type": "Link",
+          "bounds": [99, 423, 268, 109],
+          "objref": "852",
+          "action": { "type": "GoTo", "page": 6, "zoom": "XYZ -275 876 0.5" },
+          "appearance": "3/annots/852.png"
+        },
+        {
+          "type": "Link",
+          "bounds": [489, 359, 302, 116],
+          "objref": "858",
+          "action": { "type": "GoTo", "page": 21, "zoom": "XYZ -20 845 1.25" },
+          "appearance": "3/annots/858.png"
+        },
+        {
+          "type": "Link",
+          "bounds": [872, 406, 347, 107],
+          "objref": "864",
+          "action": { "type": "GoTo", "page": 31, "zoom": "XYZ -20 845 1.25" },
+          "appearance": "3/annots/864.png"
+        },
+        {
+          "type": "Link",
+          "bounds": [1157, 538, 310, 82],
+          "objref": "871",
+          "action": { "type": "GoTo", "page": 30, "zoom": "XYZ -20 845 1.25" },
+          "appearance": "3/annots/871.png"
+        }
+      ]
+    }
+  ]
+}

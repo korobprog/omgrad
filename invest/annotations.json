@@ -1,0 +1,26 @@
+{
+  "pages": [
+    {
+      "page": 4,
+      "annotations": [
+        {
+          "type": "Line",
+          "bounds": [535, 526, 302, 213],
+          "objref": "112",
+          "title": "makst",
+          "appearance": "4/annots/112.png"
+        },
+        {
+          "type": "Link",
+          "bounds": [555, 556, 265, 153],
+          "objref": "120",
+          "appearance": "4/annots/120.png",
+          "action": {
+            "type": "URI",
+            "uri": "https://omgrad-presentation.netlify.app"
+          }
+        }
+      ]
+    }
+  ]
+}
